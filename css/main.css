@@ -1,6 +1,25 @@
+@font-face {
+	font-family: 'Cracked Johnnie';
+	src: url('../font/CRACJ___.TTF');
+}
+
+
 
 body {
-  background-color: #d9d7d8;
+  	background-color: #d9d7d8;
+}
+
+.crjon {
+	font-family: 'Cracked Johnnie', sans-serif;
+}
+
+
+.logo {
+	font-size: 48px;
+}
+
+.center {
+	text-align: center;
 }
 
 .picleft {
