@@ -26,14 +26,15 @@ body {
 
 .picleft {
 	float: left;
+	clear: right;
 	padding-right: 15px;
 }
 
 .picright {
 	float: right;
+	clear: left;
 	padding-left: 15px;
 }
-
 
 .content {
 }
